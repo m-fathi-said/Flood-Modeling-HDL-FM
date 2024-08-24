@@ -12,6 +12,11 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+Additionally, any use of this Software in academic or research settings must 
+include a citation to: [Continuous Modeling of Flood Dynamics Using a Convolutional
+Neural Network Within a Sequential Deep-Learning Framework, Mohamed M. Fathi, Zihan Liu,
+Anjali M. Fernandes, Michael T. Hren, Dennis O. Terry, C. Nataraj, Virginia Smith, 2025]
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
