@@ -5,8 +5,11 @@ This code supports the research presented in the paper "Spatiotemporal flood dep
 This repository contains preprocessed input-output pairs for training and testing of a hybrid deep learning architecture designed to simulate hydrodynamic flood dynamics. The framework integrates Convolutional Neural Networks (CNNs) for spatial feature extraction and Long Short-Term Memory (LSTM) networks to model temporal dependencies in flood evolution. The dataset, hosted on Zenodo (https://zenodo.org/records/15223719), includes four PyTorch-compatible .pt files:
 
 train_x.pt: Model inputs (e.g., topography, discharge)
+
 train_y.pt: Model targets (water depth, velocity magnitude, and flow direction)
+
 test_x.pt: Same inputs for testing part
+
 test_y.pt: Same targets for testing part
 
 Recommended Citation
